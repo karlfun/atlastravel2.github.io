@@ -1,8 +1,8 @@
 title: Atlas Travel Foundation
 email: hello@atlastravelfoundation.org
 description: Topeka-based organization established in 2024 to support academic study abroad through travel scholarships to eligible Shawnee County Students.
-baseurl: "/Karl-Fun"
-url: "https://rosswilliamsdev.github.io"
+baseurl: ""
+url: "https://atlastravelfoundation.org"
 logo: /assets/logo.jpg
 
 # in deployment baseurl is an empty string: ""
