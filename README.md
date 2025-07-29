@@ -10,6 +10,6 @@ The file "index.md" contains the content for the home page.
 
 There will also be an "index.md" file inside the folder for any other main pages.
 
-This site is built using markdown, which is a text-based editing format. Here is a great markdown cheatsheet.
+This site is built using markdown, which is a text-based editing format. [Here is a great markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 
 Edits on the site are not instant. It takes a few minutes for edits to show up "live" on the web.
