@@ -1,0 +1,43 @@
+title: Atlas Travel Foundation
+email: hello@atlastravelfoundation.org
+description: Topeka-based organization established in 2024 to support academic study abroad through travel scholarships to eligible Shawnee County Students.
+baseurl: ""
+url: "https://atlastravelfoundation.org"
+logo: /assets/logo.jpg
+
+# Site Author
+author:
+  name: "Atlas Travel Foundation"
+  avatar: "/assets/images/logo.jpg"
+  bio: "Supporting academic study abroad through travel scholarships"
+  location: "Topeka, Kansas"
+  email: "hello@atlastravelfoundation.org"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.2"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+
+# Site navigation defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Social media and SEO
+social:
+  type: Organization
+  name: Atlas Travel Foundation
+  links:
+    - "https://atlastravelfoundation.org"

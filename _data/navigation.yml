@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "What is an endowment?"
+    url: /endowment/
+  - title: "Support the Foundation"
+    url: /contact/
+  # - title: "Logo RFP"
+  #   url: /logo-rfp/
