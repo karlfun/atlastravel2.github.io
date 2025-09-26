@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Applications will open soon"
 excerpt: Stay tuned for the announcement of the scholarship application. 
 ---
