@@ -11,7 +11,7 @@ logo: /assets/logo.jpg
 
 
 include: [_posts, _pages]
-
+permalink: pretty
 
 # Site Author
 author:
