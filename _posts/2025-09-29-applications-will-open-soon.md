@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Applications will open soon"
+excerpt: Stay tuned for the announcement of the scholarship application. 
 ---
 
 ### Scholarship applications will open soon!
