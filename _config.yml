@@ -11,7 +11,7 @@ logo: /assets/logo.jpg
 
 
 include: [_posts, _pages]
-permalink: pretty
+
 
 # Site Author
 author:
@@ -55,6 +55,7 @@ defaults:
       comments: true
       share: true
       related: true
+      permalink: /blog/:title/
 # _pages
   - scope:
       path: ""
