@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "What is an endowment?"
-    url: /endowment/
+  - title: "Around the world"
+    url: /blog/
   - title: "Support the Foundation"
     url: /support/
   # - title: "Logo RFP"
