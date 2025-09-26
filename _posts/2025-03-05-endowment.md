@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "What is an endowment?"
-permalink: /endowment/
 ---
 
 An endowment is a gift that keeps on giving. Invested money can earn interest.
