@@ -8,6 +8,11 @@ logo: /assets/logo.jpg
 # in deployment baseurl is an empty string: ""
 # deploy with this url: "https://atlastravelfoundation.org"
 
+
+
+include: [_posts, _pages]
+
+
 # Site Author
 author:
   name: "Atlas Travel Foundation"
