@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Around the World"
+permalink: blog
 ---
 
 #### Recent posts from Around the World:
