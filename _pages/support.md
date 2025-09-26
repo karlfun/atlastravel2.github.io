@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Support the Foundation"
-permalink: /contact/
+permalink: /support/
 ---
 ### Make a life-changing gift
 
