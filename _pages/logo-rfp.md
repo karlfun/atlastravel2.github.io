@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Logo RFP"
-permalink: /logo-rfp/
 ---
 
 ### We need a logo!
