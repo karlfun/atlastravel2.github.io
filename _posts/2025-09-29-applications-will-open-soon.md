@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Applications will open soon"
+---
+
 ### Scholarship applications will open soon!
 
 Stay tuned for the opportunity to apply for the very first international travel scholarship from the Atlas Travel Foundation. Applications will be open to students living in Shawnee County who are participating in an international program in 2026. 
