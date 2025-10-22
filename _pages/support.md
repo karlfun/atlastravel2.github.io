@@ -13,7 +13,7 @@ permalink: /support/
 <meta property="og:type" content="website">
 <meta property="og:title" content="Support the Foundation">
 <meta property="og:description" content="Topeka-based organization established in 2024 to support academic study abroad through travel scholarships to eligible Shawnee County Students.">
-<meta property="og:image" content="https://opengraph.b-cdn.net/production/images/41e7191b-89bf-419c-9a5f-0ddf475c1645.jpg?token=i5hiSLzZURA2hAt4YIN_y7_nsO4KcBG_A5wJnSDtewc&height=1424&width=1200&expires=33297165647">
+<meta property="og:image" content="https://atlastravelfoundation.org/assets/stamp-logo.jpg">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
@@ -21,7 +21,7 @@ permalink: /support/
 <meta property="twitter:url" content="https://atlastravelfoundation.org/support/">
 <meta name="twitter:title" content="Support the Foundation">
 <meta name="twitter:description" content="Topeka-based organization established in 2024 to support academic study abroad through travel scholarships to eligible Shawnee County Students.">
-<meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/41e7191b-89bf-419c-9a5f-0ddf475c1645.jpg?token=i5hiSLzZURA2hAt4YIN_y7_nsO4KcBG_A5wJnSDtewc&height=1424&width=1200&expires=33297165647">
+<meta name="twitter:image" content="https://atlastravelfoundation.org/assets/stamp-logo.jpg">
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
