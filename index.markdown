@@ -23,6 +23,14 @@ title: "Atlas Travel Foundation"
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
+**Atlas Travel Foundation Annual Meeting**
+
+Mark your calendars for the Foundation’s annual meeting for 2025!  Members of the public are welcome to join the Board of Directors on November 7 from 11:15 am to 12:15 pm Central.  
+
+To connect to the meeting via Zoom, contact the Board at hello@atlastravelfoundation.org.
+
+**About Us**
+
 Atlas Travel Foundation is a nonprofit organization established in 2024 in Topeka, Kansas. Our Mission is to award scholarships to Shawnee County youth and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate global awareness, and build respect for other cultures.
 
 **Travel changes people. Changed people change the world.** Travel creates global citizens: preparing the next generation; strengthening our workforce; and equipping students with skills that make them more adaptable to diverse challenges and situations. Topeka is 1,000 miles from any other country. We hope to make it a little easier for young people from our community to see a different part of the world.
