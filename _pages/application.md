@@ -16,7 +16,7 @@ Interested?  You’ll need:
 - Statement of educational benefit; and
 - Statement of financial need
 
-Preview the [google form](https://forms.gle/rvx3xg5Us4P2DtMEA) and evaluation matrix to see how your application will be evaluated.
+Preview the [google form](https://forms.gle/rvx3xg5Us4P2DtMEA) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
 
 <button onclick="document.location='https://forms.gle/rvx3xg5Us4P2DtMEA'">Apply now!</button>
 
