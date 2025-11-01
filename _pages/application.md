@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Applications are open!"
-excerpt: Apply for travel scholarship for 2026. 
+permalink: /application/
 ---
 
 ## Applications for 2026 Atlas Travel Foundation Scholarship are now open!
