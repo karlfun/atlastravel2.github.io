@@ -9,3 +9,6 @@ main:
     url: /support/
   # - title: "Logo RFP"
   #   url: /logo-rfp/
+
+
+# note to editors, any new page being added to navigation must have a permalink setting in its file, see others for examples
