@@ -11,7 +11,7 @@ Shawnee County students participating in a travel program can apply for a $500 s
 Interested?  You’ll need:
 
 - Proof of current GPA; 
-- Proof of FAFSA submission (for college students) or proof of eligibility for a free or reduced lunch program (for high school students);
+- Certification of FAFSA submission (for college students) or certification of eligibility for a free or reduced lunch program (for high school students);
 - Two letters of recommendation from teachers or professors;
 - Statement of educational benefit; and
 - Statement of financial need
