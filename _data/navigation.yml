@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Apply now!"
+    url: /application/
   - title: "Around the world"
     url: /blog/
   - title: "Support the Foundation"
