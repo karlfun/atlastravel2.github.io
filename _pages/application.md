@@ -12,11 +12,11 @@ Interested?  You’ll need:
 
 - Proof of current GPA; 
 - Certification of FAFSA submission (for college students) or certification of eligibility for a free or reduced lunch program (for high school students);
-- Two letters of recommendation from teachers or professors;
+- One letter of recommendation from a teacher or professor;
 - Statement of educational benefit; and
 - Statement of financial need
 
-Preview the [google form](https://forms.gle/rvx3xg5Us4P2DtMEA) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
+Preview the [application and instructions](https://drive.google.com/file/d/1-7Km1vhqUqHYXrzL_GUVMHsiFeud6Y-Z/view?usp=sharing) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
 
 <button onclick="document.location='https://forms.gle/rvx3xg5Us4P2DtMEA'">Apply now!</button>
 
