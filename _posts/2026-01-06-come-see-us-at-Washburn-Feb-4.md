@@ -11,3 +11,6 @@ Come learn more about the Atlas Travel Foundation and ask any questions you have
 - February 4, 2026
 - 11 am - 1pm
 - Washburn A - Memorial Union
+
+[Follow along with our event on Facebook here](https://www.facebook.com/share/1CCKiYCkgr/). 
+We'll see you there! 
