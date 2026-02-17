@@ -24,9 +24,9 @@ title: "Atlas Travel Foundation"
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
 
-**Applications are open!**
+**Applications are closed for 2026!**
 
-The scholarship application is open now until February 15, 2026. Visit the [application page](https://atlastravelfoundation.org/application/) to learn more!
+Thank you for your interest and applications for Spring 2026! [Please sign up for email updates](https://atlastravelfoundation.org/support/) to find out about our next round of scholarships. 
 
 ---
 
