@@ -62,3 +62,13 @@ Join our Mailchimp email list to stay updated on the latest news from the schola
 Like our <a href="https://www.facebook.com/people/Atlas-Travel-Foundation/61577091345851/#">Facebook page</a>. 
 
 Follow our content on <a href="https://www.linkedin.com/company/atlas-travel-foundation/">LinkedIn</a>.
+
+---
+
+## Other ways to support Atlas Travel Foundation
+
+Host the Foundation at your club or group: We would love to share more information with your members. Contact us today to get us scheduled to visit your group.
+
+We can accept contributions from donor-advised funds, like Fidelity Charitable, or others. 
+
+
