@@ -27,6 +27,7 @@ Preview the [application and instructions](https://drive.google.com/file/d/1-7Km
 
 More details are included in the [scholarship packet](https://drive.google.com/file/d/1AX76RHeYVNAGn6Ydg4FE-M0ROfurSj1z/view?usp=sharing). 
 
+<!--
 <button onclick="document.location='https://forms.gle/rvx3xg5Us4P2DtMEA'">Apply now!</button>
-
+-->
 
