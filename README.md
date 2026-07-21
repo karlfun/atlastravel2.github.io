@@ -1,7 +1,5 @@
 The foundation is a Topeka-based organization established in 2024 to support academic study abroad through travel scholarships to eligible Shawnee County Students.
 
-This is version 2 of our website. 
-
 ------
 
 This site is live on the web here: https://atlastravelfoundation.org/
