@@ -67,8 +67,8 @@ Follow our content on <a href="https://www.linkedin.com/company/atlas-travel-fou
 
 ## Other ways to support Atlas Travel Foundation
 
-Host the Foundation at your club or group: We would love to share more information with your members. Contact us today to get us scheduled to visit your group.
+Host the Foundation at your club or group: We would love to share more information with your members. Contact us today to get us scheduled to visit your group: hello@atlastravelfoundation<!--.com-->.org or 785-<!--comment-->251-3386
 
-We can accept contributions from donor-advised funds, like Fidelity Charitable, or others. 
+We can also accept contributions from donor-advised funds, like Fidelity Charitable, or others. 
 
 
