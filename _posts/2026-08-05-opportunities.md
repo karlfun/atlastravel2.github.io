@@ -8,6 +8,8 @@ excerpt: Join our board, the review committee, or apply to be an intern!
 
 Volunteer with us! We are looking for Interns, Board Members, and Application Reviewers. 
 
+<img src="https://atlastravelfoundation.org/assets/images/volunteers.png" alt="Banner image with different smiling people, and the words, We're Looking for the best kind of people - Volunteers" width="680" style="clear:both; margin:1em auto;">
+
 **Marketing Interns** in Fall 2026 or Spring 2027 would support the Foundation with planned social media posts and campaigns, and promote the Foundation at special events. Interns could be in high school or college in media and communications classes. This is a volunteer position. Our board would work with your school to support internship requirements for academic credit. 
 
 **Board Members** would join the existing 3 board members, meeting monthly to do the work of the foundation - planning, management, promotion, troubleshooting, and making connections. We only require a love of travel! Board members are asked to serve a 3-year term. 
