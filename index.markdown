@@ -23,11 +23,6 @@ title: "Atlas Travel Foundation"
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
-
-**Applications are closed for 2026.**
-
-Thank you for your interest and applications for Spring 2026. [Please sign up for email updates](https://atlastravelfoundation.org/support/) to find out about our next round of scholarships. 
-
 ---
 
 **About Us**
