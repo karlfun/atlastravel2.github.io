@@ -23,6 +23,11 @@ title: "Atlas Travel Foundation"
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
+<!-- tracking script from umami analytics -->
+<!-- only tracks the homepage -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="69102b84-bf36-48cd-acec-c089191ed1e7"></script>
+
+
 ---
 
 **About Us**
