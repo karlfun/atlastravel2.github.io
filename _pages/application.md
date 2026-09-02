@@ -4,16 +4,16 @@ title:  "Scholarship Applications"
 permalink: /application/
 ---
 
-## Applications for 2026 Atlas Travel Foundation Scholarship are now closed.
+## Applications for the 2027 scholarship will open in October!
 
-Thank you for your interest in our scholarships. Applications for Spring 2026 are now closed. 
-[Sign up for email updates](https://atlastravelfoundation.org/support/) to find out when the next round of scholarships will be available. 
+Thank you for your interest in our scholarships.  
+[Sign up for email updates](https://atlastravelfoundation.org/support/) to be notified when the application opens. 
 
-Current applicants will be notified in April. 
+Applications will be due by mid-January 2027 and all applicants will be notified in March. 
 
 ### More about the scholarship program
 
-Shawnee County students participating in a travel program can apply for a $500 scholarship.  The deadline for applications was February 15, 2026.  
+Shawnee County students participating in a travel program can apply for a $500 scholarship.  The deadline for applications will be January 15, 2027.  
 
 Interested?  You’ll need:
 
@@ -31,3 +31,4 @@ More details are included in the [scholarship packet](https://drive.google.com/f
 <button onclick="document.location='https://forms.gle/rvx3xg5Us4P2DtMEA'">Apply now!</button>
 -->
 
+For questions, please contact us: hello@atlastravelfoundation<!--.example-->.org
