@@ -22,7 +22,7 @@ Interested?  You’ll need:
 - One letter of recommendation from a teacher or professor; and
 - Statement of educational benefit.
 
-Preview the [application and instructions](https://drive.google.com/file/d/1-7Km1vhqUqHYXrzL_GUVMHsiFeud6Y-Z/view?usp=sharing) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
+Preview last year's [application and instructions](https://drive.google.com/file/d/1-7Km1vhqUqHYXrzL_GUVMHsiFeud6Y-Z/view?usp=sharing) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
 
 More details are included in the [scholarship packet](https://drive.google.com/file/d/1AX76RHeYVNAGn6Ydg4FE-M0ROfurSj1z/view?usp=sharing). 
 
