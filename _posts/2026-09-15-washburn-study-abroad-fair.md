@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Join use for the Study Abroad Fair at Washburn"
+title: "Join us for the Study Abroad Fair at Washburn on 9/30"
 excerpt: Communicate with your future self in our time travel activity!
 ---
 
