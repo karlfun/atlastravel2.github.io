@@ -4,30 +4,29 @@ title:  "Scholarship Applications"
 permalink: /application/
 ---
 
-## Applications for the 2027 scholarship will open in October!
+## Applications are open!
 
-Thank you for your interest in our scholarships.  
-[Sign up for email updates](https://atlastravelfoundation.org/support/) to be notified when the application opens. 
+[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdUCHx6OuwxxBxLr6XD_t0noEbljytp7Z3t2vFkXA8pZp4i5Q/viewform?usp=publish-editor)! 
 
-Applications will be due by mid-January 2027 and all applicants will be notified in March. 
+Applications are due by January 15, 2027 and all applicants will be notified in March. 
 
 ### More about the scholarship program
 
-Shawnee County students participating in a travel program can apply for a $500 scholarship.  The deadline for applications will be January 15, 2027.  
+Shawnee County students participating in a travel program can apply for a $500 scholarship.  The deadline for applications is January 15, 2027.  
 
 Interested?  You’ll need:
 
 - Proof of current GPA; 
-- Certification of FAFSA submission (for college students) or certification of eligibility for a free or reduced lunch program (for high school students);
-- One letter of recommendation from a teacher or professor; and
+- One letter of recommendation from a teacher or professor;
+- Certification of FAFSA submission (for college students) or certification of eligibility for a free or reduced lunch program (for high school students); and
 - Statement of educational benefit.
 
-Preview last year's [application and instructions](https://drive.google.com/file/d/1-7Km1vhqUqHYXrzL_GUVMHsiFeud6Y-Z/view?usp=sharing) and [evaluation matrix](https://docs.google.com/document/d/e/2PACX-1vSAAXu4vNpnXMYhHNMSCOgdOuErgTqVEgdF98hVshS9UXo_6iHWexxGoeR4hQ1jpiGZvrSw8Hf43cs0/pub) to see how your application will be evaluated.
+## More information
 
-More details are included in the [scholarship packet](https://drive.google.com/file/d/1AX76RHeYVNAGn6Ydg4FE-M0ROfurSj1z/view?usp=sharing). 
+[Review the evaluation matrix](https://docs.google.com/document/d/1gNeqc9U6p4nTvrXNE63pdZdefAnnDp47vSl1m1seK9w/edit?usp=sharing)
 
-<!--
-<button onclick="document.location='https://forms.gle/rvx3xg5Us4P2DtMEA'">Apply now!</button>
--->
+[See more details in the scholarship packet](https://drive.google.com/file/d/1nf5o-rv4neSZ8szTtmGCWgYS1nsdELvi/view?usp=sharing)
+
+<button onclick="document.location='https://forms.gle/Y2ZihPCYkd1W3gWb7'">Apply now!</button>
 
 For questions, please contact us: hello@atlastravelfoundation<!--.example-->.org
